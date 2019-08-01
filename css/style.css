@@ -996,6 +996,7 @@ h6 {
 
 #team .member span {
   font-style: italic;
+  line-height: 14px;
   display: block;
   font-size: 13px;
   color: #fff;
@@ -1576,4 +1577,10 @@ h6 {
 .code_square_name {
   font-size: 30px;
   font-weight: bold;
+}
+
+
+.client-logo {
+  height: 85px !important;
+  width: 85px !important;
 }
